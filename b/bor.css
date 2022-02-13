@@ -1,0 +1,49 @@
+.i{
+    width: 30%;
+    position: absolute;
+    top: 30%;
+    left: 46%;
+    transform: translate(-50%,-50%);
+    
+}
+div{
+   
+    background-color: thistle;
+    height: 265px;
+    width: 494px;
+    
+    margin-right: 100px;
+    border: 1px solid rgb(246, 133, 250);
+    padding: 15px 50px 15px 50px;
+}  
+.benar{
+    margin-right: 150px;
+}
+b{
+    font-size: 200%;
+    margin-right:200px ;
+    color: blue;
+}
+.e{
+    width: 40%;
+    padding: 10px;
+    background-color: rgb(227, 172, 248);
+    color:maroon;
+}
+.e:hover{
+    background-color: rgb(92, 200, 243);
+    transition: ease-in-out 0.8s;
+}
+.g{
+    background-color: ivory;
+    
+}
+.g:hover{
+    background-color: darkturquoise;
+    transition: 0.7s;
+    padding: 10px;
+    cursor: pointer;
+}
+
+    
+
